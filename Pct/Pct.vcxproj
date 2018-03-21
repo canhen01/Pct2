@@ -119,12 +119,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="4.13.1.cpp" />
+    <ClCompile Include="4.13.10.cpp" />
     <ClCompile Include="4.13.2.cpp" />
     <ClCompile Include="4.13.3.cpp" />
     <ClCompile Include="4.13.5.cpp" />
     <ClCompile Include="4.13.4.cpp" />
     <ClCompile Include="4.13.6.cpp" />
     <ClCompile Include="4.13.7.cpp" />
+    <ClCompile Include="4.13.8.cpp" />
+    <ClCompile Include="4.13.9.cpp" />
     <ClCompile Include="Pct3.7.3.cpp" />
     <ClCompile Include="Pct3.7.4.cpp" />
     <ClCompile Include="Pct3.7.5.cpp" />
